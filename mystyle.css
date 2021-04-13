@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    background: url(https://webfon.top/wp-content/uploads/2018/10/minecraft-ground.png) left top repeat;
+    color:white;
+}
+
+nav a{
+    text-decoration:none;
+    margin:100px;
+    background-color:white;
+    color:black;
+    padding:5px;
+}
+nav {
+    margin:20px;
+    background-color:#008080;
+    padding:20px;
+    border-radius:10px;
+}
+
